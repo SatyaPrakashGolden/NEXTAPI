@@ -1,0 +1,5 @@
+For development:
+npm run start
+
+For production (skipping type checking):
+npm run start:prod
